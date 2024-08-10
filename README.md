@@ -17,9 +17,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=medhansh-32&label=Profile%20views&color=0e75b6&style=flat" alt="medhansh-32" /> </p>
 
-- 🌱 I’m currently learning **HTML,CSS,JAVASCRIPT,NODE**
+- 🌱 I’m currently learning **Java,SpringBoot,Hibernate,Kafka**
 
-- 💬 Ask me about **Java,SpringBoot**
+- 💬 Ask me about **HTML,CSS,JAVASCRIPT,NODE**
 
 - 📫 How to reach me **sharmamedhansh21@gmail.com**
 
