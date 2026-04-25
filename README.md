@@ -12,7 +12,7 @@
 ```
 
 # 💫 About Me:
-- 🌱 I’m currently learning **GO **.
+- 🌱 I’m currently learning **GO**.
 
 - 💬 Ask me about **Java, SpringBoot**.
 
